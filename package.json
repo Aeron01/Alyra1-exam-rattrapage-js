@@ -2,5 +2,7 @@
   "name": "exam-rattrapage-js",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": "https://github.com/Aeron01/exam-rattrapage-js.git",
+  "author": "Aeron01 <one.soulreaper@gmail.com>"
 }
